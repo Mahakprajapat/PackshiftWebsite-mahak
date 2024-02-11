@@ -1,5 +1,5 @@
 
-Sure, here's a simpler description:
+
 
 Description:
 website is like a colorful playground, thanks to HTML5 and CSS animations!
